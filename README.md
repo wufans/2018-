@@ -22,3 +22,5 @@
 
 加权融合：当融合的模型效果差异大时，根据线上的成绩人工设定融合的权重；
 logistic平均：当融合的模型效果差异小时
+
+## (Reference)[http://algo.tpai.qq.com/home/home/index.html]
